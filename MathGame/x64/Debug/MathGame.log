@@ -1,0 +1,18 @@
+﻿  functions.c
+C:\Users\liamr\source\repos\MathGame\functions.c(533,44): warning C4047: 'function': 'Digit *' differs in levels of indirection from 'Digit (*)[8]'
+C:\Users\liamr\source\repos\MathGame\functions.c(533,31): warning C4024: 'search_Digit': different types for formal and actual parameter 1
+C:\Users\liamr\source\repos\MathGame\functions.c(534,31): warning C4047: 'function': 'Digit *' differs in levels of indirection from 'Digit (*)[8]'
+C:\Users\liamr\source\repos\MathGame\functions.c(534,18): warning C4024: 'search_Digit': different types for formal and actual parameter 1
+C:\Users\liamr\source\repos\MathGame\functions.c(535,30): warning C4047: 'function': 'Digit *' differs in levels of indirection from 'Digit (*)[8]'
+C:\Users\liamr\source\repos\MathGame\functions.c(535,17): warning C4024: 'search_Sign': different types for formal and actual parameter 1
+C:\Users\liamr\source\repos\MathGame\functions.c(537,31): warning C4047: 'function': 'Digit *' differs in levels of indirection from 'Digit (*)[8]'
+C:\Users\liamr\source\repos\MathGame\functions.c(537,18): warning C4024: 'search_Digit': different types for formal and actual parameter 1
+C:\Users\liamr\source\repos\MathGame\functions.c(538,45): warning C4047: 'function': 'Digit *' differs in levels of indirection from 'Digit (*)[8]'
+C:\Users\liamr\source\repos\MathGame\functions.c(538,32): warning C4024: 'search_Digit': different types for formal and actual parameter 1
+C:\Users\liamr\source\repos\MathGame\functions.c(553,21): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\liamr\source\repos\MathGame\functions.c(567,21): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\liamr\source\repos\MathGame\functions.c(580,21): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\liamr\source\repos\MathGame\functions.c(594,21): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\liamr\source\repos\MathGame\functions.c(608,21): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\liamr\source\repos\MathGame\functions.c(623,21): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+  MathGame.vcxproj -> C:\Users\liamr\source\repos\MathGame\x64\Debug\MathGame.exe
